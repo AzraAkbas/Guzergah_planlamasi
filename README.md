@@ -8,6 +8,9 @@ Python: Projenin temel programlama dili.
 
 Matematiksel Hesaplamalar: Softmax normalizasyonu, ağırlıklı ortalama ve maliyet-fayda oranı hesaplamaları.
 
+Softmax Algoritması Nedir?
+Softmax, makine öğrenimi ve istatistikte sıkça kullanılan bir normalizasyon fonksiyonudur. Bir dizi gerçek sayı alarak, bunları 0 ile 1 arasında değerlere dönüştürür ve toplamlarının 1 olmasını sağlar. Bu, özellikle olasılık dağılımları oluşturmak için kullanılır.
+
 Nasıl Çalışır?
 Kriterler ve Ağırlıklar:
 Her mahalle, belirli kriterlere göre değerlendirilir.
