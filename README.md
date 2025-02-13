@@ -1,0 +1,1 @@
+# Guzergah_planlamasi
